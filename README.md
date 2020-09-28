@@ -1,2 +1,3 @@
 # Challenge
-Disini saya akan membagikan hasil dari challenges yang telah saya lakukan
+Here,I will share my work on learning about statistics,especially statistics for data science
+Feel free to see and learning here!
